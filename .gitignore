@@ -19,3 +19,5 @@ config/aliases
 config/profile.d
 .github_changelog_generator
 launcher/.vs
+
+!Cmder.exe
