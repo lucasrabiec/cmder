@@ -20,4 +20,6 @@ config/profile.d
 .github_changelog_generator
 launcher/.vs
 
+## Customized by @lucasrabiec
 !Cmder.exe
+!vendor/fonts/*
